@@ -9,4 +9,4 @@ An addon for Minecraft: Bedrock Edition that allows you to climb up and down cha
 
 [Licence](./licence.md)
 
-[Download](#)
+[Download](https://github.com/Hatchibombotar/climbable-chains-addon/releases/download/latest-build/release.mcpack)
