@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Climbable Chains §lV2.2",
+    "description": "By Hatchibombotar",
+    "uuid": "f92cd66e-19a8-43df-93f1-43d8b626c90b",
+    "version": [
+      2,
+      0,
+      2
+    ],
+    "min_engine_version": [
+      1,
+      13,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b6fef82b-9bb2-4679-871f-c329b767c22f",
+      "version": [
+        2,
+        0,
+        2
+      ]
+    }
+  ]
+}
