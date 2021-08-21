@@ -3,6 +3,7 @@
 An addon for Minecraft: Bedrock Edition that allows you to climb up and down chains. This allows for some really interesting builds and concepts. 
 
 ![Person climbing a chain](./Climbable_Chains_BP/preview.png)
+
 _Someone climbing a chain._
 
 ### About the addon
